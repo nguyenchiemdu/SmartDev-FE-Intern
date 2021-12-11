@@ -17,7 +17,7 @@ if (currentUser != null && currentUser != "") {
         element.onclick = (e) => {
             e.preventDefault();
             localStorage.removeItem('currentUser');
-            window.location.pathname = "/index.html";
+            window.location.pathname = "./index.html";
             window.location;
         }
     })
