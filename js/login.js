@@ -11,7 +11,7 @@ loginButton.onclick = (e) => {
     });
     if (isValid) {
         localStorage.setItem('currentUser',loginForm['email'].value.split('@')[0]);
-        window.location.pathname = "./index.html";
+        window.location.href = "index.html";
         window.location;
     }
     else {
