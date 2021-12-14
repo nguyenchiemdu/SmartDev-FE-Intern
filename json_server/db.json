@@ -1,0 +1,82 @@
+{
+    "list-category": [
+        {
+            "id": 1,
+            "name": "Web Development"
+        },
+        {
+            "id": 2,
+            "name": "Mobile Development"
+        },
+        {
+            "id": 3,
+            "name": "Mobile Development"
+        },
+        {
+            "id": 4,
+            "name": "Entrepreneurship"
+        },
+        {
+            "id": 5,
+            "name": "Business Analytics & Intelligence"
+        },
+        {
+            "id": 6,
+            "name": "Digital Marketing"
+        },
+        {
+            "id": 7,
+            "name": "Graphic Design & Illustration"
+        },
+        {
+            "id": 8,
+            "name": "IT Certifications"
+        },
+        {
+            "id": 9,
+            "name": "Personal Transformation"
+        }
+    ],
+    "top-categories": [
+        {
+            "id": 1,
+            "name": "Design",
+            "thumbnail": "https://s.udemycdn.com/home/top-categories/lohp-category-design-v2.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Development",
+            "thumbnail": "https://s.udemycdn.com/home/top-categories/lohp-category-development-v2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Marketing",
+            "thumbnail": "https://s.udemycdn.com/home/top-categories/lohp-category-marketing-v2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "IT and Software",
+            "thumbnail": "https://s.udemycdn.com/home/top-categories/lohp-category-it-and-software-v2.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Personal Development",
+            "thumbnail": "https://s.udemycdn.com/home/top-categories/lohp-category-personal-development-v2.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Business",
+            "thumbnail": "https://s.udemycdn.com/home/top-categories/lohp-category-business-v2.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Photography",
+            "thumbnail": "https://s.udemycdn.com/home/top-categories/lohp-category-photography-v2.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Music",
+            "thumbnail": "https://s.udemycdn.com/home/top-categories/lohp-category-music-v2.jpg"
+        }
+    ]
+}
